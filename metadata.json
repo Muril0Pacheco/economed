@@ -1,0 +1,6 @@
+{
+  "name": "Consulta Medicamentos",
+  "description": "MVP de sistema web acessível para consulta de medicamentos, verificação ilustrativa no Programa Farmácia Popular, comparação de alternativas genéricas e simulação de leitura de receitas médicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
